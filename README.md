@@ -27,4 +27,9 @@ Gambar 1. Halaman Login
 Gambar 2, Halaman Lupa Password
 
 
+
+![registrasi new](https://user-images.githubusercontent.com/46160874/87642926-656d0a00-c774-11ea-8557-220ddc9279ee.PNG)
+
+Gambar 3. Halaman Registrasi
+
  
